@@ -10,7 +10,7 @@ After capturing, these images were utilized to compute the camera matrix, as wel
 
 The corrected images are saved in the 'images' folder, while the respective camera parameters are stored in folders labeled 'left', 'right', and 'rgb'.
 
-![Image 1](Assignment-1/images/left/17136538368194.png) | ![Image 2](Assignment-1/images/left/17136538368194_corners.png) | ![Image 3](Assignment-1/images/left/17136538368194_result.png)
+![Image 1](images/left/17136538368194.png) | ![Image 2](images/left/17136538368194_corners.png) | ![Image 3](images/left/17136538368194_result.png)
 
 ---
 
@@ -30,7 +30,7 @@ A script was devised to utilize perspective projection equations to ascertain re
 
 To affirm the accuracy of these calculations, an demo is provided where an object was imaged from a set distance, ensuring precise measurements for accurate outcomes.
 
-![Annotated Image](Assignment-1/object_image_with_text.png)
+![Annotated Image](object_image_with_text.png)
 
 ---
 
@@ -52,4 +52,4 @@ To simplify usage, the application includes user-friendly features such as enabl
 
 | Object Image | Annotated Image |
 |--------------|-----------------|
-| ![Object Image](Assignment-1/A1_Q4/object_image.png) | ![Annotated Image](Assignment-1/A1_Q4/object_image_with_text.png) |
+| ![Object Image](A1_Q4/object_image.png) | ![Annotated Image](A1_Q4/object_image_with_text.png) |
