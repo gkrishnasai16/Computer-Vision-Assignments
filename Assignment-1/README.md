@@ -10,7 +10,7 @@ After capturing, these images were utilized to compute the camera matrix, as wel
 
 The corrected images are saved in the 'images' folder, while the respective camera parameters are stored in folders labeled 'left', 'right', and 'rgb'.
 
-![Image 1](images/left/17136538368194.png) | ![Image 2](images/left/17136538368194_corners.png) | ![Image 3](images/left/17136538368194_result.png)
+![Image 1](images/left/17136538368194.png) | ![Image 2](images/left/17136538368194_corners.png)
 
 ---
 
