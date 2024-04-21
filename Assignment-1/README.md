@@ -46,7 +46,7 @@ To simplify usage, the application includes user-friendly features such as enabl
 
 | App Capture Page | App Result Page |
 |------------------|-----------------|
-| ![Capture Page](index.png) | ![Result Page](result_page.png) |
+| <img  alt="Index" src="https://github.com/gkrishnasai16/Computer-Vision-Assignments/assets/39943509/ef54f4d5-3ff2-4378-abe0-9b9ad5a23d3f"> | <img alt="result_page" src="https://github.com/gkrishnasai16/Computer-Vision-Assignments/assets/39943509/5a4d35aa-83a5-487f-9727-86e58e0f3e28">|
 
 ### Application in Action
 
