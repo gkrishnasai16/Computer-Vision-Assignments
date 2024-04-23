@@ -28,7 +28,7 @@ The Lucas-Kanade algorithm, a widely used method in computer vision, particularl
 
 At its core, the Lucas-Kanade algorithm assumes that the motion between frames is locally approximated as an affine transformation. 
 
-[Question 2](Question2.pdf)
+[Solution](A3_Q2.pdf)
 ___
 
 ## Question 3
@@ -106,7 +106,7 @@ Both versions showcase real-time object tracking capabilities, offering flexible
 
 | Detected QR Code (Marker) |
 |-----------------------------|
-| ![Detected QR Code](A4_Q8/detected_frame_using_marker.png) |
+| ![Detected QR Code](A4_Q8/A4_Q8/image.png) |
 
 
 | Tracked Object (No Marker) |
