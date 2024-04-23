@@ -1,0 +1,25 @@
+# Python version: 3.7 (or appropriate version)
+# Update pip
+# python -m pip install -U pip
+
+# OpenCV for image processing
+opencv-python
+opencv-contrib-python  # Additional OpenCV modules
+
+# NumPy for numerical operations
+numpy
+
+# Open3D for 3D data processing and visualization
+open3d
+
+# Matplotlib for plotting and visualization
+matplotlib
+
+# DepthAI for depth perception and AI tasks with depth data
+depthai
+
+# MarkupSafe for HTML and XML parsing
+markupsafe
+
+# Werkzeug for WSGI utilities
+werkzeug
