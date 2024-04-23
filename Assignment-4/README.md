@@ -32,6 +32,6 @@ Below are some observed limitations and corner cases I encountered while utilizi
 
 During experimentation in various environments, several instances exemplify these challenges. Additional screenshots and screencaptures demonstrating these scenarios can be found within A4_Q2 folder.
 
-| Environment Location 1 | Environment  Location 2 |
-|---------------|---------------|
-| ![Environment 1](q2/env1.gif) | ![Environment 2](q2/env2.gif) |
+| Environment Location 1 | Environment  Location 2 | Environment  Location 3 |
+|---------------|---------------|---------------|
+| ![Environment 1](A4_Q2/d1.gif) | ![Environment 2](A4_Q2/d2.gif) | ![Environment 2](A4_Q2/d3.gif) |
