@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CV Assignment-4</title>
+    <style>
+        body {
+            font-family: 'Verdana', sans-serif;
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background: linear-gradient(135deg, #ff8a80, #ff5252);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            padding: 10%;
+            border-radius: 20px;
+        }
+
+        .title {
+            color: #1a1a1a;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        #video-container-1 {
+            max-width: 100%;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .video {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Tracking, Identification, Size Estimation</h1>
+        <h2 class="title">Live Broadcast</h2>
+        <div id="video-container-1">
+            <img src="{{ url_for('video_stream') }}" class="video" alt="Live Stream">
+        </div>
+    </div>
+</body>
+</html>

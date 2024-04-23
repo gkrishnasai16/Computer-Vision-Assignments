@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Assignment-4</title>
+    <style>
+        body {
+            font-family: 'Verdana', sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .cv-container {
+            background: linear-gradient(135deg, #ff8a80, #ff5252);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            padding: 10%;
+            border-radius: 20px;
+        }
+
+        .cv-title, .cv-subtitle {
+            color: #ffffff;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .cv-subtitle {
+            font-size: 20px;
+        }
+
+        .cv-form {
+            margin-top: 30px;
+        }
+
+        .cv-label-text {
+            color: #ffffff;
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        .cv-submit-btn {
+            background-color: #00acc1;
+            color: #ffffff;
+            border: none;
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .cv-submit-btn:hover {
+            background-color: #0077a3;
+        }
+    </style>
+</head>
+<body>
+    <div class="cv-container">
+        <h1 class="cv-title">CV Assignment-4</h1>
+        <p class="cv-subtitle">Tracking, Identification & Size Estimation</p>
+        <form action="/livestreaming" method="post" enctype="multipart/form-data" class="cv-form" name="Streaming">
+            <button type="submit" class="cv-submit-btn">Initiate Stream</button>
+        </form>
+    </div>
+</body>
+</html>
