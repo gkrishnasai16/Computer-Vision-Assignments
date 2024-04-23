@@ -10,10 +10,9 @@ It accomplishes this without employing machine learning or deep learning tools, 
 
 In summary, the application offers a reliable solution for object tracking and dimension estimation utilizing stereo camera technology, free from dependency on machine learning or deep learning algorithms.
 
-<div align="center">
-  <h2>Flask- App Demo</h2>
-  <img src="q1/app.gif" alt="app.gif">
-</div>
+**App Demo:**
+
+  ![Demo](https://github.com/gkrishnasai16/Computer-Vision-Assignments/assets/39943509/b147e1d7-9e89-44dd-b35e-ce1a57587cfb)
 ___
 
 ## Question 2
