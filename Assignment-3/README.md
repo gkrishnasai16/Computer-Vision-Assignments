@@ -106,7 +106,7 @@ Both versions showcase real-time object tracking capabilities, offering flexible
 
 | Detected QR Code (Marker) |
 |-----------------------------|
-| ![Detected QR Code](A4_Q8/image.png) |
+| ![Detected QR Code](A4_Q8/Image.png) |
 
 
 | Tracked Object (No Marker) |
