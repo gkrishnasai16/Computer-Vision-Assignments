@@ -16,7 +16,7 @@ Two methods are employed for comparison: sum of squared differences (SSD) and no
 # Few matched images using SDD and Normalized Correlation
 |  SSD | Normalized Correlation |
 |---------|---------|
-| ![Image 1](/A3_Q1/pattern_match_ncor/out_17137555708964.png) | ![Image 2](/A3_Q1/pattern_match_ssd/out_17137555707379.png) |
+| ![Image 1](A3_Q1/pattern_match_ncor/out_17137555708964.png) | ![Image 2](A3_Q1/pattern_match_ssd/out_17137555707379.png) |
 
 ___
 
@@ -46,19 +46,19 @@ In this solution I plotted optical flow vectors on each frame of the video using
 
 | Optical Flow Image | Optical Flow Mask |
 |--------------------|-------------------|
-| ![1.png](/A3_Q4/optical_flow/1.png) | ![1_mask.png](/A3_Q4/optical_flow/1_mask.png) |
+| ![1.png](A3_Q4/optical_flow/1.png) | ![1_mask.png](A3_Q4/optical_flow/1_mask.png) |
 
 ## 2) every 11th frame
 
 | Optical Flow Image | Optical Flow Mask |
 |--------------------|-------------------|
-| ![10.png](/A3_Q4/optical_flow/1.png) | ![10_mask.png](/A3_Q4/optical_flow/10_mask.png) |
+| ![10.png](A3_Q4/optical_flow/1.png) | ![10_mask.png](A3_Q4/optical_flow/10_mask.png) |
 
 ## 3) every 31st frame
 
 | Optical Flow Image | Optical Flow Mask |
 |--------------------|-------------------|
-| ![30.png](/A3_Q4/optical_flow/30.png) | ![1_mask.png](/A3_Q4/optical_flow/30_mask.png) |
+| ![30.png](A3_Q4/optical_flow/30.png) | ![1_mask.png](A3_Q4/optical_flow/30_mask.png) |
 ___
 
 ## Question 5
@@ -69,13 +69,13 @@ Template matching techniques are utilized to detect objects of interest within t
 
 | Pattern 1 | Pattern 2 |
 |--------------------|-------------------|
-|![(A3_Q5/pattern-1.png](A3_Q5/pattern-1.png) | ![(A3_Q5/pattern-2.png]((A3_Q5/pattern-2.png) |
+|![(A3_Q5/pattern-1.png](A3_Q5/pattern-1.png) | ![(A3_Q5/pattern-2.png](A3_Q5/pattern-2.png) |
 
 # Pattern Matching 
 
-<img src="/A3_Q5/object_detected/pattern1.png" alt="/A3_Q5/object_detected/pattern1.png">
+<img src="A3_Q5/object_detected/pattern1.png" alt="A3_Q5/object_detected/pattern1.png">
 
-<img src="/A3_Q5/object_detected/pattern2.png" alt="/A3_Q5/object_detected/pattern2.png">
+<img src="A3_Q5/object_detected/pattern2.png" alt="A3_Q5/object_detected/pattern2.png">
 
 ___
 
@@ -85,6 +85,7 @@ ___
 For this evaluation, I chose two common object categories: 'cutlery/stationery'. 
 
 The evaluation involved assessing the accuracy and effectiveness of the Bag of Features approach in classifying objects from these categories, providing insights into its performance.
+
 ___
 
 ## Question 7
