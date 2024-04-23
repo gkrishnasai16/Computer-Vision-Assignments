@@ -104,13 +104,14 @@ The initial version employs a marker, such as a QR code or April tags, to track 
 
 Both versions showcase real-time object tracking capabilities, offering flexible solutions for various object tracking requirements.
 
-| Detected Frame (Marker) | Detected QR Code (Marker) | Tracked Object (No Marker) |
-|--------------------------|-----------------------------|----------------------------|
-| ![Detected Frame](q8/detected_frame_using_marker.png) | ![Detected QR Code](q8/detected_qr_code_using_marker.png) | ![Tracked Object](q8/tracked_object_qr_without_marker.jpg) |
+| Detected QR Code (Marker) |
+|-----------------------------|
+| ![Detected QR Code](A4_Q8/detected_frame_using_marker.png) |
 
 
-
-
+| Tracked Object (No Marker) |
+|----------------------------|
+| ![Without Marker](A4_Q8/tracked_object_qr_without_marker.jpg) |
 
 
 
